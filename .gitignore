@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 *-debug.log
-dist1
+dist
 .idea
 *.iml
 *.sublime-project
